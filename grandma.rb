@@ -14,7 +14,7 @@
 
 def speak_to_grandma(str)
 
-  if !str.upcase
+  if str.upcase
     return "HUH?! SPEAK UP, SONNY!"
     
   # elsif str == "I LOVE YOU GRANDMA!"
